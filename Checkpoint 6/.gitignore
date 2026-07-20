@@ -1,3 +1,8 @@
-openai
-pydantic
-python-dotenv
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.vscode/
+.idea/
